@@ -1,0 +1,7 @@
+{
+    "linkedin_session_cookies": {
+        "li_at": "your_session_cookie_here"
+    },
+    "linkedin_search_url": "https://www.linkedin.com/search/results/people/?keywords=developer",
+    "max_profiles": 1000
+}
